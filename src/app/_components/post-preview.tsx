@@ -22,20 +22,26 @@ export function PostPreview({
   slug,
 }: Props) {
   return (
-    <div>
-      <div className="mb-5">
+    <article className="bg-white dark:bg-slate-800 rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden flex flex-col h-full">
+      <div className="aspect-video overflow-hidden">
         <CoverImage slug={slug} title={title} src={coverImage} />
       </div>
-      <h3 className="text-3xl mb-3 leading-snug">
-        <Link href={`/posts/${slug}`} className="hover:underline">
-          {title}
-        </Link>
-      </h3>
-      <div className="text-lg mb-4">
-        <DateFormatter dateString={date} />
+      <div className="p-4 md:p-6 flex flex-col flex-grow">
+        <h3 className="text-lg md:text-xl font-bold mb-2 leading-tight hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+          <Link href={`/posts/${slug}`}>
+            {title}
+          </Link>
+        </h3>
+        <div className="text-sm text-gray-500 dark:text-gray-400 mb-3">
+          <DateFormatter dateString={date} />
+        </div>
+        <p className="text-sm md:text-base text-gray-700 dark:text-gray-300 leading-relaxed mb-4 flex-grow line-clamp-3">
+          {excerpt}
+        </p>
+        {/*<div className="mt-auto">
+          <Avatar name={author.name} picture={author.picture} />
+        </div>*/}
       </div>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-      <Avatar name={author.name} picture={author.picture} />
-    </div>
+    </article>
   );
 }
