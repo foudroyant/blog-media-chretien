@@ -8,8 +8,10 @@
   },
   "dependencies": {
     "@vercel/analytics": "^1.6.1",
+    "ai": "^6.0.21",
     "classnames": "^2.5.1",
     "date-fns": "^3.6.0",
+    "dotenv": "^17.2.3",
     "gray-matter": "^4.0.3",
     "next": "latest",
     "react": "^19",
