@@ -2,7 +2,7 @@
 title: "Un diacre devenu fou"
 excerpt: "Si vous refusez d’obéir à Dieu, vous obéirez à Satan."
 coverImage: "/assets/blog/kacou-philippe/diacre-fou/cover.jpg"
-date: "2026-06-04:00:00.000Z"
+date: "2026-06-04T00:00:00.000Z"
 author:
   name: Kacou Philippe
   picture: "/assets/blog/authors/kacou-philippe.jpg"

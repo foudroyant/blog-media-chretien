@@ -2,7 +2,7 @@
 title: "Tous les premiers chrétiens ont pratiqué la confession publique"
 excerpt: "Frères et Sœurs, aimons la confession publique. Tous les premiers chrétiens ont pratiqué la confession publique telle que nous la pratiquons ici."
 coverImage: "/assets/blog/kacou-philippe/disposition-confession/cover.jpg"
-date: "2026-06-04:00:00.000Z"
+date: "2026-06-04T00:00:00.000Z"
 author:
   name: Kacou Philippe
   picture: "/assets/blog/authors/kacou-philippe.jpg"

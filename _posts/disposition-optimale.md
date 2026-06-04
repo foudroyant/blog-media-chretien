@@ -2,7 +2,7 @@
 title: "La disposition optimale"
 excerpt: "Au moment de l'opération d’un don spirituel, l'eau chaude et les parfums et les pommades sur toi peuvent être des handicaps. La solution est de te mettre dans la peau d’un pauvre."
 coverImage: "/assets/blog/kacou-philippe/disposition-optimale/cover.jpg"
-date: "2026-06-04:00:00.000Z"
+date: "2026-06-04T00:00:00.000Z"
 author:
   name: Kacou Philippe
   picture: "/assets/blog/authors/kacou-philippe.jpg"

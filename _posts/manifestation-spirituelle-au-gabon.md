@@ -2,7 +2,7 @@
 title: "Manifestion spirituelle au Gabon"
 excerpt: "Toute assemblée doit avoir des dons spirituels pour dévoiler tout prédicateur qui est en train de servir du whisky ou du vin de palme pour faire agir le bouc parmi vous."
 coverImage: "/assets/blog/kacou-philippe/reveil-gabon/cover.jpg"
-date: "2026-06-04:00:00.000Z"
+date: "2026-06-04T00:00:00.000Z"
 author:
   name: Kacou Philippe
   picture: "/assets/blog/authors/kacou-philippe.jpg"

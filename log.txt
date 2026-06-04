@@ -1,15 +1,16 @@
+✅ Génération terminée !
 ▲ Next.js 16.1.1 (Turbopack)
   Creating an optimized production build ...
 Browserslist: browsers data (caniuse-lite) is 6 months old. Please run:
   npx update-browserslist-db@latest
   Why you should do it regularly: https://github.com/browserslist/update-db#readme
-✓ Compiled successfully in 8.0s
+✓ Compiled successfully in 7.2s
   Running TypeScript ...
   Collecting page data using 1 worker ...
-  Generating static pages using 1 worker (0/16) ...
-Error occurred prerendering page "/posts/la-biographie-du-prophète-kacou-philippe". Read more: https://nextjs.org/docs/messages/prerender-error
-Error: ENOENT: no such file or directory, open '/vercel/path0/_posts/la-biographie-du-proph%C3%A8te-kacou-philippe.md'
-    at g (.next/server/chunks/ssr/[root-of-the-server]__4946acd7._.js:1:210053)
-    at dI (.next/server/chunks/ssr/[root-of-the-server]__60bada0e._.js:4:166085) {
-  errno: -2,
-  code: 'ENOENT',
+  Generating static pages using 1 worker (0/23) ...
+Error occurred prerendering page "/blogs". Read more: https://nextjs.org/docs/messages/prerender-error
+RangeError: Invalid time value
+    at aY (.next/server/chunks/ssr/[root-of-the-server]__4946acd7._.js:1:23366)
+    at a$ (.next/server/chunks/ssr/[root-of-the-server]__4946acd7._.js:1:24266)
+    at stringify (<anonymous>) {
+  digest: '2261287531'

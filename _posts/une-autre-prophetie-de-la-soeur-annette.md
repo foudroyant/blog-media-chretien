@@ -2,7 +2,7 @@
 title: "Une autre prophétie de la Sœur Annette"
 excerpt: "Si une prophétie te donne une sanction ou te chasse de l'assemblée, le premier juge, c'est toi. Soit tu obéis ou tu plaides si tu crois que c’est Dieu, soit tu n'obéis pas si tu crois que c’est le diable."
 coverImage: "/assets/blog/kacou-philippe/reveil-cam/cover.jpg"
-date: "2026-06-04:00:00.000Z"
+date: "2026-06-04T00:00:00.000Z"
 author:
   name: Kacou Philippe
   picture: "/assets/blog/authors/kacou-philippe.jpg"

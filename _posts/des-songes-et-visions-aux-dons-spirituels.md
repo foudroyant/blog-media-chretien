@@ -2,7 +2,7 @@
 title: "La restitution des dons spirituels"
 excerpt: "Israël consultant les prophètes, ce n’était pas la chose parfaite. Et Abraham, Isaac et Jacob n’ont pas marché à la lumière des prophètes mais à la lumière des songes et visions."
 coverImage: "/assets/blog/kacou-philippe/dons-spirituels/cover.jpg"
-date: "2026-06-04:00:00.000Z"
+date: "2026-06-04T00:00:00.000Z"
 author:
   name: Kacou Philippe
   picture: "/assets/blog/authors/kacou-philippe.jpg"

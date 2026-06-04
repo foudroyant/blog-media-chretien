@@ -2,7 +2,7 @@
 title: "La vision des deux hautes montagnes"
 excerpt: " Après le sacrifice du Seigneur Jésus à la croix, Dieu avait redonné cette dimension à l’Église à la chambre haute, mais l’Église l’avait à nouveau perdue. Et en cette fin des temps, Dieu la redonne à l’Église, car Il est le Dieu de la restitution."
 coverImage: "/assets/blog/kacou-philippe/disposition-haute/cover.jpg"
-date: "2026-06-04:00:00.000Z"
+date: "2026-06-04T00:00:00.000Z"
 author:
   name: Kacou Philippe
   picture: "/assets/blog/authors/kacou-philippe.jpg"
